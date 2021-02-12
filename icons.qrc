@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icons/port open.png</file>
+    <file>icons/settings.png</file>
+    <file>icons/port close.png</file>
+  </qresource>
+</RCC>
